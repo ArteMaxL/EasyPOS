@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPOS.Presentation.API", "EasyPOS.Presentation.API\EasyPOS.Presentation.API.csproj", "{1EF7184A-CA12-4D72-A1CC-2DB7EA6A7BF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyPOS.Presentation.API", "EasyPOS.Presentation.API\EasyPOS.Presentation.API.csproj", "{1EF7184A-CA12-4D72-A1CC-2DB7EA6A7BF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPOS.Application", "EasyPOS.Application\EasyPOS.Application.csproj", "{39974121-072D-4132-BF33-F1FA142BE615}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyPOS.Application", "EasyPOS.Application\EasyPOS.Application.csproj", "{39974121-072D-4132-BF33-F1FA142BE615}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPOS.Domain", "EasyPOS.Domain\EasyPOS.Domain.csproj", "{9E749862-7E31-43F4-B73C-B5F860A65697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyPOS.Domain", "EasyPOS.Domain\EasyPOS.Domain.csproj", "{9E749862-7E31-43F4-B73C-B5F860A65697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPOS.Infrastructure", "EasyPOS.Infrastructure\EasyPOS.Infrastructure.csproj", "{0EBEBA08-0890-4AF2-A711-D42393973A5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyPOS.Infrastructure", "EasyPOS.Infrastructure\EasyPOS.Infrastructure.csproj", "{0EBEBA08-0890-4AF2-A711-D42393973A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

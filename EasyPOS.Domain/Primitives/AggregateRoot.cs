@@ -1,6 +1,6 @@
 ﻿namespace EasyPOS.Domain.Primitives
 {
-    public abstract class AgreggateRoot
+    public abstract class AggregateRoot
     {
         private readonly List<DomainEvent> _domainEvents = new();
         public ICollection<DomainEvent> GetDomainEvents() => _domainEvents;
